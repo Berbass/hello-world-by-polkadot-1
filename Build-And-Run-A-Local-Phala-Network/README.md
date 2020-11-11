@@ -1,0 +1,3 @@
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just built the whole <a href="https://twitter.com/PhalaNetwork?ref_src=twsrc%5Etfw">@PhalaNetwork</a> blockchain plaform.<br>Their concept of privacy on blockchain is pretty interesting.<a href="https://twitter.com/hashtag/CaParleDev?src=hash&amp;ref_src=twsrc%5Etfw">#CaParleDev</a> <a href="https://t.co/ellgMWbkvy">pic.twitter.com/ellgMWbkvy</a></p>&mdash; Ben Berbass (@BenBerbass) <a href="https://twitter.com/BenBerbass/status/1326316312939868162?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="Screenshot_from_2020-11-11_00-08-23.png">
+<img src="Screenshot_from_2020-11-11_00-58-03.png">
